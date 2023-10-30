@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Beige">#FCFADE</color>
+    <color name="Oscuro">#452d3d</color>
+    <color name="VerdeClaro">#D1CE95</color>
+    <color name="VerdeOscuro">#548C82</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#00ffd0</color>
+    <color name="grey">#7C7373</color>
+    <color name="orange">#ff7800</color>
+    <color name="purple">#CE6FE6</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#ffd000</color>
+    <string name="Calculadoras">Calculadoras</string>
+    <string name="Calcular">Calcular</string>
+    <string name="NumeroAltura">0</string>
+    <string name="NumeroEdad">0</string>
+    <string name="altura">ALTURA</string>
+    <string name="app_name">Ejercicio2PMDM</string>
+    <string name="atras">Atras</string>
+    <string name="boton0">0</string>
+    <string name="boton1">1</string>
+    <string name="boton2">2</string>
+    <string name="boton3">3</string>
+    <string name="boton4">4</string>
+    <string name="boton5">5</string>
+    <string name="boton6">6</string>
+    <string name="boton7">7</string>
+    <string name="boton8">8</string>
+    <string name="boton9">9</string>
+    <string name="botonCE">CE</string>
+    <string name="botonDecimal">.</string>
+    <string name="botonDividir">/</string>
+    <string name="botonIgual">=</string>
+    <string name="botonMultiplicar">x</string>
+    <string name="botonRestar">-</string>
+    <string name="botonSuma">+</string>
+    <string name="btnBorrar"><![CDATA[<]]></string>
+    <string name="calculadora_jorge">Calculadora Jorge</string>
+    <string name="calculadora_jose_luis">Calculadora Jose Luis</string>
+    <string name="calculadora_lucia">Calculadora Lucia</string>
+    <string name="edad">Edad</string>
+    <string name="hombre">HOMBRE</string>
+    <string name="imagenResultado">imagenResultado</string>
+    <string name="imc1">IMC</string>
+    <string name="logo_Femenino">logo_Femenino</string>
+    <string name="logo_masculino">logo_masculino</string>
+    <string name="mujer">MUJER</string>
+    <string name="numeroPeso">0</string>
+    <string name="pantalla">%1$s</string>
+    <string name="peso">Peso</string>
+    <string name="resta1">resta1</string>
+    <string name="salir">Salir</string>
+    <string name="simbolo_atras"><![CDATA[⇐]]></string>
+    <string name="suma1">suma1</string>
+    <string name="textoMostrar">|</string>
+    <style name="Base.Theme.CalculadoraIMC" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:background">@color/Oscuro</item>
+    </style>
+    <style name="Theme.CalculadoraIMC" parent="Base.Theme.CalculadoraIMC"/>
+</resources>
